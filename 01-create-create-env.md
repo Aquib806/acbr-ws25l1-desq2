@@ -1,4 +1,4 @@
-#Create Conda Enviroment with Miniconda
+##Create Conda Enviroment with Miniconda
 I am Creating a Conda enviroment for DESeq2 Data analysis  with R and Bioconductor in my windows System using Windows Subsystem Linux (WSL)
 
 ## Code in WSL terminal 
