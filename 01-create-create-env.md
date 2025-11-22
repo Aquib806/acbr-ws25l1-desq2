@@ -8,7 +8,7 @@ I am Creating a Conda enviroment for DESeq2 Data analysis  with R and Bioconduct
 - Type the following to create a conda enviroment for R4.5 names as R4.5WS
 
 
-```{cmd}
+```{CMD}
 conda create --name R4.5WS
 ```{CMD}
 - Activate the R4.5WS conda enviroment as follows 
@@ -20,6 +20,7 @@ conda activate R4.5WS
  conda install conda-forge::r-base
  ```
 `conda-forge` is the channel from anaconda.org.[conda-forge/r-base 4.5.2](https://anaconda.org/conda-forge/r-base )
+
 
 
 
