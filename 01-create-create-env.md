@@ -19,6 +19,8 @@ conda activate R4.5WS
  ```
  conda install conda-forge::r-base
  ```
-`conda-forge` is the channel from anaconda.org.[conda-forge/r-base 4.5.2](https://anaconda.org/conda-forge/r-base)
+`conda-forge` is the channel from anaconda.org.[conda-forge/r-base 4.5.2](https://anaconda.org/conda-forge/r-base )
+
+
 
 
